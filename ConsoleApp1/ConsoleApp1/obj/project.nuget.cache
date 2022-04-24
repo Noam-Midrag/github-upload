@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RxsxBM429ITbqUv7KoXjR9J+OCXjdylyEx0zgdfd3jL/ioUd5nYAI1deNjdtCqvpAHQaUg7FyreF4aISrM+ptA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\user\\source\\repos\\Noam-Midrag\\github-upload\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
